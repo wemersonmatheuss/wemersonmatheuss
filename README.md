@@ -1,23 +1,34 @@
-### Olá! Eu sou o Wemerson Matheus 👋
+<h1 align="left">👋 Wemerson Matheus</h1>
 
-[![W.M Freelancer](https://img.shields.io/badge/W.MFreelancer-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://link-bio-vt91.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wemerson-matheus)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wemerson_dev/)
+###
 
-![Wemerson GitHub stats](https://github-readme-stats.vercel.app/api?username=wemersonmatheuss&show_icons=true&theme=dark)
+<h4 align="left">Desenvolvedor Front-end</h4>
 
+###
 
-## Tecnologias que eu uso no meu dia
+<p align="left">👋 Olá! Sou Wemerson Matheus, desenvolvedor em formação com foco em Front-End.<br>💻 Estudo HTML, CSS, JavaScript, ReactJs, e Node.js. Tenho também conhecimento aplicado na prática com SQL, PHP e Java, aplicados em projetos acadêmicos.<br>🚀 Apaixonado por tecnologia, busco criar interfaces modernas e funcionais, sempre aprendendo algo novo.<br>📫 Contato: <br>wemersonmthdev@gmail.com<br>(81) 9 9516-6980</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###
 
-Apaixonado por tecnologia 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-## Contato
+###
 
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wemersonmatheuss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wemersonmatheuss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
-
+###
